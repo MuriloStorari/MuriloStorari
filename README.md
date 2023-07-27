@@ -2,7 +2,6 @@ Olá! Meu nome é Murilo Storari
 ========================================================================================================================================
 
 *   🌍  Sou de Lucélia - SP, Brasil
-*   💼  Você pode ver meu portfólio aqui: <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
 *   🖥️  Atualmente estou no segundo semestre do curso de Ciência da Computação, e estou dedicando meus estudos ao desenvolvimento de páginas web, com foco em front-end.
 
 ### Tecnologias & Habilidades
