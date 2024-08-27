@@ -2,8 +2,7 @@ Olá! Meu nome é Murilo Storari
 ========================================================================================================================================
 
 *   🌍  Sou de Lucélia - SP, Brasil
-*   🖥️  Atualmente estou no segundo semestre do curso de Ciência da Computação, e estou dedicando meus estudos ao desenvolvimento de páginas web, com foco em front-end.
-*   💼  Você pode ver meu portfólio aqui: <a target="_blank" rel="noreferrer" href='https://murilostorari.vercel.app/'>Portfolio</a>
+*   🖥️  Atualmente estou cursando Ciência da Computação. No momento estou me dedicando ao estudo de back-end, principalmente C# e .NET. Tenho conhecimentos em front-end, além de familiaridade com SQL. Além disso, tenho um conhecimento básico em cibersegurança.
 
 ### Tecnologias & Habilidades
 
